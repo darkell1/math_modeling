@@ -1,5 +1,7 @@
 print(bool(2))
 
+print(bool(3))
+
 print(bool(-2))
 
 print(bool('Good'))
